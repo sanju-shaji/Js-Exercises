@@ -20,5 +20,5 @@ function mostFrequentItem(arr) {
     return mostFrequent;
 }
 
-let array = [1,2,3,4,5];
+let array = [1,2,3,4,5,6,5,6,7,5,9,5];
 console.log(mostFrequentItem(array)); 
